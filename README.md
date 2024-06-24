@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassam Ahmad
-- 👀 I’m interested Data Science
+- 👀 I’m interested Machine Learning
 - 🌱 my expertiese in ML/DL, Data Science
-- 💞️ I’m looking for a role as a Data Scientist, ML/DL Engineer or Data Engineer
+- 💞️ I’m looking for a role as a ML/DL Engineer
 - 📫 How to reach me hassamahmad.dev@gmail.com
 
 <!---
