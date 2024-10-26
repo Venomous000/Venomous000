@@ -34,7 +34,6 @@ I’m looking for a role as a **ML/DL Engineer**.
 ![GAN](https://img.shields.io/badge/-GAN-0D74FF?style=flat-square)
 ![Explainable AI](https://img.shields.io/badge/-EXAI-6AB5F2?style=flat-square)
 
-
 ## Let's Connect
 Email: [hassamahmad.dev@gmail.com](mailto:hassamahmad.dev@gmail.com)  
 Portfolio: [@venomous000](https://www.polywork.com/venomous000)
