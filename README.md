@@ -11,8 +11,7 @@ I’m looking for a role as a **ML/DL Engineer**.
 
 ![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venomous000&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venomous000&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Venomous000&theme=flat&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Venomous000&theme=juicyfresh&no-frame=true&no-bg=true)
 
 ## Skills
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
