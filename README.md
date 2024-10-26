@@ -7,9 +7,9 @@ My expertise lies in **ML/DL**, where I enjoy building innovative solutions.
 I’m looking for a role as a **ML/DL Engineer**.  
 
 ## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=github_dark)
 
-![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venomous000&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venomous000&theme=radical)
+![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venomous000&show_icons=true&theme=github_dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venomous000&theme=github_dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Venomous000&theme=juicyfresh&no-frame=true&no-bg=true)
 
