@@ -9,10 +9,6 @@ I’m looking for a role as a **ML/DL Engineer**.
 ## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=github_dark)
 
-![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venomous000&show_icons=true&theme=github_dark)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venomous000&theme=github_dark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Venomous000&theme=juicyfresh&no-frame=true&no-bg=true)
-
 ## Skills
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
