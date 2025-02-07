@@ -1,5 +1,3 @@
-**أشهد أن لا إله إلا الله لا وحده لا شريك له ولا هادا آنا محمدان عبده هو ورسول**
-
 
 Hi, I’m **Hassam Ahmed** (he/him)  
 I’m passionate about **Machine Learning** and **Data Science**.  
