@@ -30,6 +30,4 @@ I’m looking for a role as a **ML/DL Engineer**.
 
 ## Let's Connect
 Email: [hassamahmad.dev@gmail.com](mailto:hassamahmad.dev@gmail.com)  
-Portfolio: [@venomous000](https://www.polywork.com/venomous000)
 LinkedIn: [venomous](https://www.linkedin.com/in/venomous)
-Leetcode: [venomous000](https://leetcode.com/u/Venomous000/)
