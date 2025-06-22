@@ -52,5 +52,6 @@ to deploy AI models in real-world applications. Strong in model optimization, XA
 
 
 ## Let's Connect
-Email: [hassamahmad.dev@gmail.com](mailto:hassamahmad.dev@gmail.com)  
-LinkedIn: [venomous](https://www.linkedin.com/in/venomous)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassamahmad.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venomous/)
