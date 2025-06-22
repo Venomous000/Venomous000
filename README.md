@@ -4,8 +4,7 @@ I’m passionate about **Machine Learning** and **Data Science**.
 My expertise lies in **ML/DL**, where I enjoy building innovative solutions.  
 I’m looking for a role as a **ML/DL Engineer**.  
 
-## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=github_dark&card_width=1000)
+
 
 ## Skills
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
