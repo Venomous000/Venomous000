@@ -1,9 +1,4 @@
 
-Hi, I’m **Hassam Ahmed** (he/him)  
- A Machine Learning Engineer, skilled in building scalable AI solutions, NLP agents, and computer vision
-models. Experienced in developing web-based platforms and RESTful APIs using Django and FastAPI
-to deploy AI models in real-world applications. Strong in model optimization, XAI, and cross-functional collaboration.
-
 ## My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=github_dark&card_width=1000)
 
@@ -50,8 +45,3 @@ to deploy AI models in real-world applications. Strong in model optimization, XA
 ![Client Communication](https://img.shields.io/badge/-Client%20Communication-2196F3?style=flat-square)
 ![Technical Documentation](https://img.shields.io/badge/-Technical%20Documentation-FF5722?style=flat-square)
 
-
-## Let's Connect
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hassamahmad.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venomous/)
