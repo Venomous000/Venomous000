@@ -1,5 +1,5 @@
 ## My GitHub Stats
-![Top Languages](./top-langs.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=github_dark&card_width=1000)
 
 ## Skills
 
