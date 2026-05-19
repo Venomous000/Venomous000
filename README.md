@@ -1,5 +1,6 @@
 ## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](./top-langs.svg)
+
 ## Skills
 
 ### Languages & Frameworks
