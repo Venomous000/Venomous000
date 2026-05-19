@@ -4,6 +4,9 @@ on:
     - cron: '0 */12 * * *' # Updates every 12 hours
   workflow_dispatch: # Allows you to run it manually
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
