@@ -1,5 +1,5 @@
 ## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venomous000&layout=compact&theme=github_dark&card_width=1000)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmad-sattar-dev&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" height="170" />
 
 ## Skills
 
